@@ -8,7 +8,7 @@
     <key>ProgramArguments</key>
     <array>
       <string>/usr/bin/python3</string>
-      <string>/Users/alex/pdf_monitor_MacAir.py</string>
+      <string>/Users/alex/Documents/GitHub/Pdf Monitor1/PdfMonitor2/pdf_monitor_MacAir.py</string>
     </array>
 
     <key>RunAtLoad</key>
